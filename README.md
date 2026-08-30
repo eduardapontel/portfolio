@@ -24,7 +24,7 @@ A simple personal portfolio website built with **PHP** and **Tailwind CSS**. The
 
 ## 📁 Project Structure
 
-- **`01-my-portfolio/`**
+- **`portfolio/`**
   - **`assets/`**
     - `email.svg` - Email icon
     - `github.svg` - GitHub icon
@@ -41,9 +41,6 @@ A simple personal portfolio website built with **PHP** and **Tailwind CSS**. The
 
 ## How to Access the Project 🚀
 
-- Access it directly by clicking [here](https://eduardapontel.github.io/portfolio/).
-
-**Or** follow the steps below to run it locally:
 1. Clone the repository:
    ```git clone https://github.com/eduardapontel/portfolio.git```
 2. Run using built-in PHP Local Server:
