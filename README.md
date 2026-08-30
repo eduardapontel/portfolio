@@ -9,7 +9,7 @@ A simple personal portfolio website built with **PHP** and **Tailwind CSS**. The
 - **Component-Based Architecture:** Built using modular PHP includes (`header.php`, `hero.php`, `projects.php`).
 - **Dynamic Content Rendering:** Projects, navigation links, and social items are dynamically iterated from PHP arrays.
 - **Modern Dark UI:** Sleek dark mode design styled with Tailwind CSS.
-- **Project Showcase:** List displaying tech stack badges (PHP, HTML, CSS, JavaScript, Tailwind) and completion statuses (Completed vs In Progress).
+- **Project Showcase:** List displaying tech stack badges (PHP, HTML, CSS, JavaScript, Tailwind, among others) and completion statuses (Completed vs In Progress).
 - **Social Integration:** Fast links to GitHub, LinkedIn, and Email with smooth hover transitions.
 
 <br>
@@ -53,4 +53,4 @@ php -S localhost:8000
 
 ## How to Contribute 🤝
 
-If you'd like to contribute to this project, please fork the repository and submit a pull request with your changes. 
+Feel free to contribute to this project by submitting issues or pull requests. Your feedback and suggestions are always welcome!
