@@ -43,7 +43,7 @@ $projects = [
         <div class="w-4/5 space-y-3">
             <div class="flex gap-3 justify-between">
                 <h3 class="font-semibold text-xl"><?= $project['title'] ?></h3>
-                <div class="space-x-1">
+                <div class="cursor-default space-x-1">
                     <?php
                     $colors = ['amber', 'lime', 'sky', 'rose', 'fuchsia', 'purple'];
                     foreach ($project['stack'] as $index => $stack):
